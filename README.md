@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# This Movie Rater Front End Utilizes React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Based steps:
 
 ## Available Scripts
 
